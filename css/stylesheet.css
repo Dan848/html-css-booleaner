@@ -1,12 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
 .header-container {
+    height: 100px;
     background-color: #4ea0ff; 
     background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
-    background-size: 40%;
-    height: 100px
+    background-size: 30%;
 }
 
 .logo {
     width: 200px;
+}
+
+.container {
+    margin: 8px;
+}
+
+figure{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.gray-text {
+    color: gray;
+}
+
+.lightblue-text {
+    color: #0ba1e2;
+}
+
+.small-text {
+    font-size: small;
 }
