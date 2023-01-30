@@ -36,3 +36,15 @@ figure{
 .small-text {
     font-size: small;
 }
+
+article {
+    margin-bottom: 15px;
+}
+
+.highlighted-text {
+    background-color: yellow;
+}
+
+ul {
+    padding: 15px;
+}
