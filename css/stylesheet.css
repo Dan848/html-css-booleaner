@@ -22,7 +22,6 @@
 
 figure{
     margin-top: 15px;
-    margin-bottom: 15px;
 }
 
 .gray-text {
@@ -38,6 +37,7 @@ figure{
 }
 
 article {
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
@@ -47,4 +47,21 @@ article {
 
 ul {
     padding: 15px;
+}
+
+thead {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.colored-line {
+    background-color: #b1e5f2;
+}
+
+.small-column {
+    width: 20%;
+}
+
+.large-column {
+    width: 60%;
 }
